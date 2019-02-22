@@ -44,8 +44,8 @@ SPOTIFY_SECRET=your-spotify-secret
      * Time of the Event 
     ```
     * Result Screenshots : 
-    ![Concert This](images/1_concert-this.png)
-    ![Concert This](images/2_concert-this.png)
+    ![Concert This](images/1_concert-this.PNG)
+    ![Concert This](images/2_concert-this.PNG)
     
     * By Default, limit of the search is set to 10. So only 10 items are listed here.
 
@@ -55,11 +55,11 @@ SPOTIFY_SECRET=your-spotify-secret
 
     * 'count-3' will limit the results display to 3 in the terminal, Since this is optional you don't have to enter this.
     * Result Screenshots : 
-    ![Concert This](images/3_concert-this_count.png)
+    ![Concert This](images/3_concert-this_count.PNG)
 
     * Example - node liri.js concert-this backstreet boys count-8
-    ![Concert This](images/4_concert-this_count.png)
-    ![Concert This](images/5_concert-this_count.png)
+    ![Concert This](images/4_concert-this_count.PNG)
+    ![Concert This](images/5_concert-this_count.PNG)
 
 
     * If the count, is not mentioned then By default first 10 results are shown.
@@ -68,7 +68,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
     * If the band name or artist name does not return any values, then terminal will show an error message.
     
-![Error Msg](images/3_Error_Msg.png)
+![Error Msg](images/3_Error_Msg.PNG)
 
 
 2. 'node liri.js movie-this <movie name here>'
@@ -89,7 +89,7 @@ SPOTIFY_SECRET=your-spotify-secret
      ```
 
     * Result Screenshots : 
-    ![Movie This](images/1_movie-this.png)
+    ![Movie This](images/1_movie-this.PNG)
    
     * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
@@ -99,13 +99,13 @@ SPOTIFY_SECRET=your-spotify-secret
      - It's on Netflix!
     ```
     * Result Screenshots : 
-    ![Movie This](images/2_movie-this.png)
+    ![Movie This](images/2_movie-this.PNG)
 
 # Error Message
 
     * If the movie name does not return any values, then terminal will show an error message.
     
-![Error Msg](images/4_Error_Msg.png)
+![Error Msg](images/4_Error_Msg.PNG)
 
 3. 'node liri.js spotify-this-song <song name here> [count-<value>]'
     
@@ -126,8 +126,8 @@ SPOTIFY_SECRET=your-spotify-secret
     ```
 
     * Result Screenshots : 
-     ![Spotify This Song](images/1_spotify-this-song.png)
-     ![Spotify This Song](images/2_spotify-this-song.png)
+     ![Spotify This Song](images/1_spotify-this-song.PNG)
+     ![Spotify This Song](images/2_spotify-this-song.PNG)
     
     * By Default, limit of the search is set to 10. So only 10 items are listed here.
 
@@ -137,11 +137,11 @@ SPOTIFY_SECRET=your-spotify-secret
     * 'count-4' will limit the results display to 4 in the terminal, Since this is optional you don't have to enter this.
 
      * Result Screenshots : 
-     ![Spotify This Song](images/3_spotify-this-song.png)
+     ![Spotify This Song](images/3_spotify-this-song.PNG)
 
     * Example - node liri.js concert-this backstreet boys count-12
-    ![Spotify This Song](images/4_spotify-this-song.png)
-    ![Spotify This Song](images/5_spotify-this-song.png)
+    ![Spotify This Song](images/4_spotify-this-song.PNG)
+    ![Spotify This Song](images/5_spotify-this-song.PNG)
 
 
     * If the count, is not mentioned then By default first 10 results are shown.
@@ -150,7 +150,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
     * If the song name does not return any values, then terminal will show an error message.
     
-![Error Msg](images/5_Error_Msg.png)
+![Error Msg](images/5_Error_Msg.PNG)
 
 
 4. 'node liri.js do-what-it-says'
@@ -167,9 +167,9 @@ SPOTIFY_SECRET=your-spotify-secret
     ```
 
     * Result Screenshots : 
-     ![Do Waht it Says](images/1_do-what-it-says.png)
-     ![Do Waht it Says](images/2_do-what-it-says.png)
-     ![Do Waht it Says](images/3_do-what-it-says.png)
+     ![Do Waht it Says](images/1_do-what-it-says.PNG)
+     ![Do Waht it Says](images/2_do-what-it-says.PNG)
+     ![Do Waht it Says](images/3_do-what-it-says.PNG)
 
      * you can add in more custom commands in the given format and can execute them randomly .
 
@@ -178,8 +178,8 @@ SPOTIFY_SECRET=your-spotify-secret
 
     * If you did not enter any parameters after 'node liri' then you should get an error message 
 
-    ![Error Msg](images/1_Error_Msg.png)
+    ![Error Msg](images/1_Error_Msg.PNG)
 
     * If you enter commands that is not mentionedthen you should get an error message 
     
-    ![Error Msg](images/2_Error_Msg.png)
+    ![Error Msg](images/2_Error_Msg.PNG)
