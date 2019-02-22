@@ -709,3 +709,1225 @@ Command typed --> movie-this harry
  ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
 ------------------------------------------------------------
 
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/22/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/23/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/12/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/13/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/17/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/19/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/20/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/24/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/26/2019,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this ringo starr
+ 
+ Event : 1,
+ ** Name of the venue :	Harrahs Resort SoCal The Events Center,
+ ** Location of the Venue :	Valley Center , United States,
+ ** Data of the Event :	03/21/2019,
+ ** Time of the Event: 20:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	福岡サンパレスホテル＆ホール,
+ ** Location of the Venue :	福岡市 , 日本,
+ ** Data of the Event :	03/27/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	広島上野学園ホール,
+ ** Location of the Venue :	広島市 , 日本,
+ ** Data of the Event :	03/29/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	東京エレクトロンホール宮城,
+ ** Location of the Venue :	仙台市 , 日本,
+ ** Data of the Event :	04/01/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	けんしん郡山文化センター　大ホール（郡山市民文化センター）,
+ ** Location of the Venue :	郡山市 , 日本,
+ ** Data of the Event :	04/02/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	昭和女子大学人見記念講堂,
+ ** Location of the Venue :	世田谷区 , 日本,
+ ** Data of the Event :	04/03/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	東京ドームシティホール,
+ ** Location of the Venue :	文京区 , 日本,
+ ** Data of the Event :	04/05/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	東京ドームシティホール,
+ ** Location of the Venue :	文京区 , 日本,
+ ** Data of the Event :	04/07/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Ｚｅｐｐ　Ｎａｇｏｙａ,
+ ** Location of the Venue :	名古屋市 , 日本,
+ ** Data of the Event :	04/09/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	あましんアルカイックホール,
+ ** Location of the Venue :	尼崎市 , 日本,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 19:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this ringo starr
+ 
+ Event : 1,
+ ** Name of the venue :	Harrahs Resort SoCal The Events Center,
+ ** Location of the Venue :	Valley Center , United States,
+ ** Data of the Event :	03/21/2019,
+ ** Time of the Event: 20:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	福岡サンパレスホテル＆ホール,
+ ** Location of the Venue :	福岡市 , 日本,
+ ** Data of the Event :	03/27/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	広島上野学園ホール,
+ ** Location of the Venue :	広島市 , 日本,
+ ** Data of the Event :	03/29/2019,
+ ** Time of the Event: 19:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this ringo starr
+ 
+ Event : 1,
+ ** Name of the venue :	Harrahs Resort SoCal The Events Center,
+ ** Location of the Venue :	Valley Center , United States,
+ ** Data of the Event :	03/21/2019,
+ ** Time of the Event: 20:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	福岡サンパレスホテル＆ホール,
+ ** Location of the Venue :	福岡市 , 日本,
+ ** Data of the Event :	03/27/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	広島上野学園ホール,
+ ** Location of the Venue :	広島市 , 日本,
+ ** Data of the Event :	03/29/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	東京エレクトロンホール宮城,
+ ** Location of the Venue :	仙台市 , 日本,
+ ** Data of the Event :	04/01/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	けんしん郡山文化センター　大ホール（郡山市民文化センター）,
+ ** Location of the Venue :	郡山市 , 日本,
+ ** Data of the Event :	04/02/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	昭和女子大学人見記念講堂,
+ ** Location of the Venue :	世田谷区 , 日本,
+ ** Data of the Event :	04/03/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	東京ドームシティホール,
+ ** Location of the Venue :	文京区 , 日本,
+ ** Data of the Event :	04/05/2019,
+ ** Time of the Event: 19:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this ringo starr
+ 
+ Event : 1,
+ ** Name of the venue :	Harrahs Resort SoCal The Events Center,
+ ** Location of the Venue :	Valley Center , United States,
+ ** Data of the Event :	03/21/2019,
+ ** Time of the Event: 20:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	福岡サンパレスホテル＆ホール,
+ ** Location of the Venue :	福岡市 , 日本,
+ ** Data of the Event :	03/27/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	広島上野学園ホール,
+ ** Location of the Venue :	広島市 , 日本,
+ ** Data of the Event :	03/29/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	東京エレクトロンホール宮城,
+ ** Location of the Venue :	仙台市 , 日本,
+ ** Data of the Event :	04/01/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	けんしん郡山文化センター　大ホール（郡山市民文化センター）,
+ ** Location of the Venue :	郡山市 , 日本,
+ ** Data of the Event :	04/02/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	昭和女子大学人見記念講堂,
+ ** Location of the Venue :	世田谷区 , 日本,
+ ** Data of the Event :	04/03/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	東京ドームシティホール,
+ ** Location of the Venue :	文京区 , 日本,
+ ** Data of the Event :	04/05/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	東京ドームシティホール,
+ ** Location of the Venue :	文京区 , 日本,
+ ** Data of the Event :	04/07/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Ｚｅｐｐ　Ｎａｇｏｙａ,
+ ** Location of the Venue :	名古屋市 , 日本,
+ ** Data of the Event :	04/09/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	あましんアルカイックホール,
+ ** Location of the Venue :	尼崎市 , 日本,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 11,
+ ** Name of the venue :	オリックス劇場,
+ ** Location of the Venue :	大阪市 , 日本,
+ ** Data of the Event :	04/11/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 12,
+ ** Name of the venue :	The Colosseum at Caesars Windsor,
+ ** Location of the Venue :	Windsor , Canada,
+ ** Data of the Event :	08/01/2019,
+ ** Time of the Event: 20:00:00
+------------------------------------------------------------
+
+Command typed --> movie-this harry potter
+ ** Title of the movie: 			Harry Potter and the Deathly Hallows: Part 2,
+ ** Year the movie came out : 			2011,
+ ** IMDB Rating of the movie : 			8.1,
+ ** Rotten Tomatoes Rating of the movie : 	96%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe,
+ ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+------------------------------------------------------------
+
+Command typed --> movie-this pirates of carribeanCommand typed --> concert-this rinCommand typed --> movie-this tiwilight new moonCommand typed --> movie-this tiwlight new moonCommand typed --> movie-this brave
+ ** Title of the movie: 			Brave,
+ ** Year the movie came out : 			2012,
+ ** IMDB Rating of the movie : 			7.1,
+ ** Rotten Tomatoes Rating of the movie : 	79%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters,
+ ** Plot of the movie : 			Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
+------------------------------------------------------------
+
+Command typed --> movie-this baahubaaliCommand typed --> movie-this baahubali
+ ** Title of the movie: 			Baahubali: The Beginning,
+ ** Year the movie came out : 			2015,
+ ** IMDB Rating of the movie : 			8.2,
+ ** Rotten Tomatoes Rating of the movie : 	86%,
+ ** Country where the movie was produced : 	 India,
+ ** Language of the movie : 			Telugu, Tamil, Hindi,
+ ** Actors in the movie : 			Prabhas, Rana Daggubati, Ramya Krishnan, Sathyaraj,
+ ** Plot of the movie : 			In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.
+------------------------------------------------------------
+
+Command typed --> movie-this Command typed --> concert-this Command typed --> spotify-this-song show me the meaning
+ 
+ Song : 1,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cfed9c2d2d5e507ec4e91018fbd8a8ba281e9c70?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Millennium,
+ 
+ Song : 2,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/1e6404a4af4cf2acbb2b18d016b6d0ca89c95ecf?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Hits--Chapter One,
+ 
+ Song : 3,
+ ** Artist: 		Anna Ternheim,
+ ** Song: 		Show Me The Meaning Of Being Lonely,
+ ** Preview URL: 	null,
+ ** Album: 		For The Young,
+ 
+ Song : 4,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me The Meaning of Being Lonely - Live in Japan,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5d556dca83346dfbf86af25b3543a8cc191efd51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		In a World Like This (Deluxe World Tour Edition),
+ 
+ Song : 5,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely - Live in Japan,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5d556dca83346dfbf86af25b3543a8cc191efd51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		In a World Like This - Deluxe World Tour Edition,
+ 
+ Song : 6,
+ ** Artist: 		Kompulsor,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Club Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/79e847d60462e4ae54fdc5ec8fc4d7a864f851bf?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Show Me the Meaning of Being Lonely,
+ 
+ Song : 7,
+ ** Artist: 		Kompulsor,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Fidel Wicked vs. D'Marzio Remix Edit,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/84beeb94cade1c41acb5ec9fe8a3472e23053133?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Show Me the Meaning of Being Lonely,
+ 
+ Song : 8,
+ ** Artist: 		Anna Ternheim,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Live,
+ ** Preview URL: 	null,
+ ** Album: 		Live In Stockholm,
+ 
+ Song : 9,
+ ** Artist: 		Rock the Cradle,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/97b6f00a59a872c7cf9da546fbde4cf55f64ac51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Lullaby Versions of Backstreet Boys,
+ 
+ Song : 10,
+ ** Artist: 		John Tesh,
+ ** Song: 		Show Me The Meaning Of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/087a1bf06c9304ed83328ced717cdd808d3f280d?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Power Of Love
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let me
+
+ 
+ Song : 1,
+ ** Artist: 		The Chainsmokers,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4f410d4293b502e25df3e782c443d1745382c3da?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down,
+ 
+ Song : 2,
+ ** Artist: 		Conor Maynard,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6806d3a25085fb9986a1a670ae2cc54f691904e2?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Covers,
+ 
+ Song : 3,
+ ** Artist: 		Sabrina Claudio,
+ ** Song: 		Don't Let Me Down (feat. Khalid),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/c66be4965c7ee07ad67d1523d33cf2b4bbaef626?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down / All To You,
+ 
+ Song : 4,
+ ** Artist: 		Joy Williams,
+ ** Song: 		Don't Let Me Down (Instrumental),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/17b6091930462eff091ab0d63bd000a8209ca481?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down,
+ 
+ Song : 5,
+ ** Artist: 		The Chainsmokers,
+ ** Song: 		Don't Let Me Down - Illenium Remix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/c7721aa9e1a24f63604e4f3fce3acb074bff2049?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down (Remixes),
+ 
+ Song : 6,
+ ** Artist: 		Wage War,
+ ** Song: 		Don't Let Me Fade Away,
+ ** Preview URL: 	null,
+ ** Album: 		Deadweight,
+ 
+ Song : 7,
+ ** Artist: 		The Beatles,
+ ** Song: 		Don't Let Me Down - Remastered 2009,
+ ** Preview URL: 	null,
+ ** Album: 		The Beatles 1967 - 1970 (Remastered),
+ 
+ Song : 8,
+ ** Artist: 		The Animals,
+ ** Song: 		Don't Let Me Be Misunderstood,
+ ** Preview URL: 	null,
+ ** Album: 		Animal Tracks,
+ 
+ Song : 9,
+ ** Artist: 		P!nk,
+ ** Song: 		Don't Let Me Get Me - Radio Edit,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/06a4539d2e9d42654301413a98568864bb9299ec?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		M!ssundaztood,
+ 
+ Song : 10,
+ ** Artist: 		The Chainsmokers,
+ ** Song: 		Don't Let Me Down (feat. Daya),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/db158b463e24f8ed68575d750f56f9f43b29dc49?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Collage EP
+------------------------------------------------------------
+
+Command typed --> spotify-this-song 
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> spotify-this-song khlkashldjasdkjaCommand typed --> spotify-this-song khlkashldjasdkjaCommand typed --> spotify-this-song asd
+ 
+ Song : 1,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Falling Apart In A (Crow)ded Room,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2b244871ffe8e3003393534f55a030fcba6089dc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 2,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Bring Me A War,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/152f81df775cd81d77206f0268a58e8354817c19?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 3,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Self/Less,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/aa2b231912257fb50ee40f565de59842f6202fb4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 4,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Risk It All,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fae6cf551164ccbab615be9b86f0e37f4ced7ee5?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 5,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Oblivion,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e80f43702b311bc58c50eccd56b3b4a834bcdf37?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 6,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Running In Circles,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/1f0ee8b084d39ee35e62abd10b507196a3af379c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 7,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Shock My Heart,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/0a77d0e90179aaed8bcfa5b3b37c28c24a98ba68?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 8,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		Symphony Of Broken Dreams,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/d015fe2067221a2dfc1679936f20b64f9543bbbe?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 9,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		The Son Is Not The Father,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/aa6babbf540fe1a3ebf8eba8d8d32c5806ca45dd?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD,
+ 
+ Song : 10,
+ ** Artist: 		A Skylit Drive,
+ ** Song: 		I'll Sleep When I'm Dead,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/034e1e69f9839e404c9451b42b6d23ba47730340?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		ASD
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let me go
+ 
+ Song : 1,
+ ** Artist: 		G-Eazy,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/41f472e4ab7e3ce5979b71b04d0b5ef64ac973a9?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		When It's Dark Out,
+ 
+ Song : 2,
+ ** Artist: 		Bring Me The Horizon,
+ ** Song: 		Don't Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3a915a188d3accb9dba6b3445f81e152157d3a8a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret,
+ 
+ Song : 3,
+ ** Artist: 		Mark Souzek,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b0e2890a63b6b767207694eb4cb750cf48dc8366?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go,
+ 
+ Song : 4,
+ ** Artist: 		George Michael,
+ ** Song: 		Don't Let the Sun Go Down on Me,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5b030d6dd95a91096f8d5bbe84a9eef1af25a3ee?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Ladies And Gentlemen... The Best Of George Michael,
+ 
+ Song : 5,
+ ** Artist: 		Allman Brown,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/716756e109e9be46565f3fc5ff4bf688d3754957?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		1000 Years
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let me go
+ 
+ Song : 1,
+ ** Artist: 		G-Eazy,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/41f472e4ab7e3ce5979b71b04d0b5ef64ac973a9?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		When It's Dark Out,
+ 
+ Song : 2,
+ ** Artist: 		Bring Me The Horizon,
+ ** Song: 		Don't Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3a915a188d3accb9dba6b3445f81e152157d3a8a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret,
+ 
+ Song : 3,
+ ** Artist: 		Mark Souzek,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b0e2890a63b6b767207694eb4cb750cf48dc8366?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go,
+ 
+ Song : 4,
+ ** Artist: 		George Michael,
+ ** Song: 		Don't Let the Sun Go Down on Me,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5b030d6dd95a91096f8d5bbe84a9eef1af25a3ee?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Ladies And Gentlemen... The Best Of George Michael,
+ 
+ Song : 5,
+ ** Artist: 		Allman Brown,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/716756e109e9be46565f3fc5ff4bf688d3754957?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		1000 Years,
+ 
+ Song : 6,
+ ** Artist: 		Elton John,
+ ** Song: 		Don't Let The Sun Go Down On Me,
+ ** Preview URL: 	null,
+ ** Album: 		Caribou,
+ 
+ Song : 7,
+ ** Artist: 		Cody Simpson,
+ ** Song: 		Don't Let Me Go - Reef Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4f96cc5020211682776f7f66b57cf13ab43579ce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go - Reef Mix,
+ 
+ Song : 8,
+ ** Artist: 		Cody Simpson,
+ ** Song: 		Don't Let Me Go - Reef Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4f96cc5020211682776f7f66b57cf13ab43579ce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Wave Two,
+ 
+ Song : 9,
+ ** Artist: 		Elton John,
+ ** Song: 		Don't Let The Sun Go Down On Me - Live At Wembley Arena / 1991,
+ ** Preview URL: 	null,
+ ** Album: 		Duets,
+ 
+ Song : 10,
+ ** Artist: 		Koni,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/8b7d381e5245743422cc0aed5835904f0c2ee4dc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go,
+ 
+ Song : 11,
+ ** Artist: 		Jelly Roll,
+ ** Song: 		Dont Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/0b90e6235d74dba150fba227782486ef046857e7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Goodnight Nashville,
+ 
+ Song : 12,
+ ** Artist: 		Miley Cyrus,
+ ** Song: 		Don't Let The Sun Go Down On Me,
+ ** Preview URL: 	null,
+ ** Album: 		Revamp: The Songs Of Elton John & Bernie Taupin,
+ 
+ Song : 13,
+ ** Artist: 		Goldfinger,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/26abc7f0e4fe24df89a8f398ab8a62060d575de9?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Knife,
+ 
+ Song : 14,
+ ** Artist: 		RAIGN,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e7b6df3b1e93469f888ecd8b87e8f5b04bd0a775?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go - Single,
+ 
+ Song : 15,
+ ** Artist: 		Foreign Figures,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cbdd668298f5f9c97561030a881600b4d90f51be?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go
+------------------------------------------------------------
+
+Command typed --> do-what-it-says Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> concert-this "backstreet boys" 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+ 
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+Command typed --> do-what-it-says 
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> concert-this "backstreet boys" 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 2,
+ ** Artist: 		Ace of Base,
+ ** Song: 		All That She Wants,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 3,
+ ** Artist: 		Ace of Base,
+ ** Song: 		The Sign,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Greatest Hits,
+ 
+ Song : 4,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Don't Turn Around,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 5,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Happy Nation,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 6,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Wheel of Fortune,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 7,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Living in Danger,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 8,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Dancer in a Daydream,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 9,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Young and Proud,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered],
+ 
+ Song : 10,
+ ** Artist: 		Ace of Base,
+ ** Song: 		Waiting for Magic - Total Remix 7" Version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Sign (US Album) [Remastered]
+------------------------------------------------------------
+

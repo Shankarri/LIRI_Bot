@@ -76,7 +76,7 @@ if (liriAction) {
             switch (randomitem[0])
             {
                 case "concert-this":
-                bband.bandAjax(count);
+                band.bandAjax(count);
                 break;
 
                 case "spotify-this-song":

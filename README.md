@@ -27,7 +27,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
 # Instructions Video :
 
-[![YouTube video demonstration of Aidan's LIRI Bot: ](https://img.youtube.com/vi/okHGw1v9X5k/0.jpg)](https://www.youtube.com/watch?v=okHGw1v9X5k)
+
 
 ### Commands and results
 
@@ -49,6 +49,7 @@ SPOTIFY_SECRET=your-spotify-secret
     ```
 
     * You can also enter an optional count value at the end of the command line like
+
     * Example - node liri.js concert-this backstreet boys count-3
 
     * 'count-3' will limit the results display to 3 in the terminal, Since this is optional you don't have to enter this.
@@ -112,8 +113,10 @@ SPOTIFY_SECRET=your-spotify-secret
 
     ```
     # Random Comments present in random.txt
+
     * spotify-this-song,"I Want it That Way"
     * movie-this,"Harry Potter"
     * concert-this,"backstreet boys"
+    
     ```
      * you can add in more custom commands in the given format and can execute them randomly .
