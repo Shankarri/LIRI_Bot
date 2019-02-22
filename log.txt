@@ -1,0 +1,600 @@
+Command typed --> spotify-this-song dont let dogs
+ 
+ Song : 1,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go to the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/59d3a9ae0a3c2ffc8bd9cffe4b37825301ca4d41?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Glad Music,
+ 
+ Song : 2,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go to the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/c52169f0758c0032362bf5525966bd2b93a8fbce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Glad Music,
+ 
+ Song : 3,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6d00aad0f1dc1c29a0b620f5412ac799d4ea115a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Meet The R. Stevie Moore!,
+ 
+ Song : 4,
+ ** Artist: 		Liza Kate,
+ ** Song: 		Don't Let the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/39de08a4490f05d71c9055cd3d920fdb8eaa9397?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let the Dogs,
+ 
+ Song : 5,
+ ** Artist: 		Clouds Clouds Clouds,
+ ** Song: 		Dead Dogs Don't Die,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/741c1af21b3858511d2876c03175a249ffb15bc7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Let's Meet Again on the Moon,
+ 
+ Song : 6,
+ ** Artist: 		The Dogs,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/40889c79fd0f6617d3d7d6c352edc47b8ae316d7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Black Chameleon Prayer,
+ 
+ Song : 7,
+ ** Artist: 		The Dogs,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/40889c79fd0f6617d3d7d6c352edc47b8ae316d7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down,
+ 
+ Song : 8,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/d44b091ac6dcc66f4a97d20e02260c2eb28a62e2?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Great Test Hits,
+ 
+ Song : 9,
+ ** Artist: 		Bravado Cartel,
+ ** Song: 		Don't Let the Dogs Run Wild,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2e909fa1da2c96f53c17837d3aa8ea8f08f9bc62?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Violence Has No Place at the Table of Democracy?,
+ 
+ Song : 10,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2553a9ae6e19f610fb65f85ed1fd64d0a50e1bc1?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Delicate Tension,
+ 
+ Song : 11,
+ ** Artist: 		The Laughing Dogs,
+ ** Song: 		Don't Let Me Love You,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b910ad2b8a07c644258b67425a0f190fcd46b76c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		When Do We Eat?,
+ 
+ Song : 12,
+ ** Artist: 		Jessie Kilguss,
+ ** Song: 		Don't Let's Go to the Dogs Tonight,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2368b97ef67816878e027dc46e5e4461a2a0938c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Devastate Me,
+ 
+ Song : 13,
+ ** Artist: 		The Mama Bluegrass Band,
+ ** Song: 		Don't Let No One Bring You Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/dc488624c55fc67d218ed10a65c85299e0350b0d?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Dogs for Bones,
+ 
+ Song : 14,
+ ** Artist: 		Barking At Dogs,
+ ** Song: 		Don't Let It Get You Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/fa8984c45892c1b8edfe00ce7d0c0b183d9e411c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Barking At Dogs, Vol. I,
+ 
+ Song : 15,
+ ** Artist: 		Brian Pearson,
+ ** Song: 		Don't Mean a Thing,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/dddecabe01f95b770a15863cb6c51c96029497cc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Let the Dogs Run Free,
+ 
+ Song : 16,
+ ** Artist: 		Shaggy Dogs,
+ ** Song: 		Don't Think Twice,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/bf33305f2cfc544208ae4e79a63bf36e438c58e2?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Who Let the Shaggy Dogs out?,
+ 
+ Song : 17,
+ ** Artist: 		Shaggy Dogs,
+ ** Song: 		Don't Think Twice,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/054a147b7c190a207c24ad7d35bdee8ae17ccb19?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Who Let the Shaggy Dogs Out ? !,
+ 
+ Song : 18,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs - early version,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/83d949d7345e7040f39654f7b9402829feff5a66?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Swing & A Miss/R. Stevie Moore '77,
+ 
+ Song : 19,
+ ** Artist: 		Advertisement,
+ ** Song: 		Don't Let the Day Go to the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/1f28c24264e43de7cb268502ae3aa0b4788f4298?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		This Is Advertisement,
+ 
+ Song : 20,
+ ** Artist: 		Jackson Garrett,
+ ** Song: 		Don't Tell Me What To Do,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6faf4a3fc3d7b2784924ba6e996c975317f95f80?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Let Sleeping Dogs Lie
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let dogs
+ 
+ Song : 1,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go to the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/59d3a9ae0a3c2ffc8bd9cffe4b37825301ca4d41?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Glad Music,
+ 
+ Song : 2,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go to the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/c52169f0758c0032362bf5525966bd2b93a8fbce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Glad Music,
+ 
+ Song : 3,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/6d00aad0f1dc1c29a0b620f5412ac799d4ea115a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Meet The R. Stevie Moore!,
+ 
+ Song : 4,
+ ** Artist: 		Liza Kate,
+ ** Song: 		Don't Let the Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/39de08a4490f05d71c9055cd3d920fdb8eaa9397?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let the Dogs,
+ 
+ Song : 5,
+ ** Artist: 		Clouds Clouds Clouds,
+ ** Song: 		Dead Dogs Don't Die,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/741c1af21b3858511d2876c03175a249ffb15bc7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Let's Meet Again on the Moon,
+ 
+ Song : 6,
+ ** Artist: 		The Dogs,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/40889c79fd0f6617d3d7d6c352edc47b8ae316d7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Black Chameleon Prayer,
+ 
+ Song : 7,
+ ** Artist: 		The Dogs,
+ ** Song: 		Don't Let Me Down,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/40889c79fd0f6617d3d7d6c352edc47b8ae316d7?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Down,
+ 
+ Song : 8,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/d44b091ac6dcc66f4a97d20e02260c2eb28a62e2?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Great Test Hits,
+ 
+ Song : 9,
+ ** Artist: 		Bravado Cartel,
+ ** Song: 		Don't Let the Dogs Run Wild,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2e909fa1da2c96f53c17837d3aa8ea8f08f9bc62?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Violence Has No Place at the Table of Democracy?,
+ 
+ Song : 10,
+ ** Artist: 		R. Stevie Moore,
+ ** Song: 		Don't Let Me Go To The Dogs,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2553a9ae6e19f610fb65f85ed1fd64d0a50e1bc1?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Delicate Tension
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-10,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-12,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-13,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-17,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-19,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-20,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-24,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-26,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys count-Command typed --> concert-this backstreet boys count-Command typed --> concert-this backstreet boys Command typed --> concert-this backstreet boys Command typed --> concert-this backstreet boys Command typed --> concert-this backstreet boys Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-10,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-10,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-12,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-13,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-10,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-12,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-13,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-17,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-19,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-20,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> movie-this harry potter
+ ** Title of the movie: 			Harry Potter and the Deathly Hallows: Part 2,
+ ** Year the movie came out : 			2011,
+ ** IMDB Rating of the movie : 			8.1,
+ ** Rotten Tomatoes Rating of the movie : 	96%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe,
+ ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+------------------------------------------------------------
+
+Command typed --> spotify-this-song show me the meaning of
+ 
+ Song : 1,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cfed9c2d2d5e507ec4e91018fbd8a8ba281e9c70?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Millennium,
+ 
+ Song : 2,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/1e6404a4af4cf2acbb2b18d016b6d0ca89c95ecf?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Hits--Chapter One,
+ 
+ Song : 3,
+ ** Artist: 		Anna Ternheim,
+ ** Song: 		Show Me The Meaning Of Being Lonely,
+ ** Preview URL: 	null,
+ ** Album: 		For The Young,
+ 
+ Song : 4,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me The Meaning of Being Lonely - Live in Japan,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5d556dca83346dfbf86af25b3543a8cc191efd51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		In a World Like This (Deluxe World Tour Edition),
+ 
+ Song : 5,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely - Live in Japan,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5d556dca83346dfbf86af25b3543a8cc191efd51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		In a World Like This - Deluxe World Tour Edition,
+ 
+ Song : 6,
+ ** Artist: 		Kompulsor,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Club Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/79e847d60462e4ae54fdc5ec8fc4d7a864f851bf?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Show Me the Meaning of Being Lonely,
+ 
+ Song : 7,
+ ** Artist: 		Kompulsor,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Fidel Wicked vs. D'Marzio Remix Edit,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/84beeb94cade1c41acb5ec9fe8a3472e23053133?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Show Me the Meaning of Being Lonely,
+ 
+ Song : 8,
+ ** Artist: 		Anna Ternheim,
+ ** Song: 		Show Me The Meaning Of Being Lonely - Live,
+ ** Preview URL: 	null,
+ ** Album: 		Live In Stockholm,
+ 
+ Song : 9,
+ ** Artist: 		Rock the Cradle,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/97b6f00a59a872c7cf9da546fbde4cf55f64ac51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Lullaby Versions of Backstreet Boys,
+ 
+ Song : 10,
+ ** Artist: 		John Tesh,
+ ** Song: 		Show Me The Meaning Of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/087a1bf06c9304ed83328ced717cdd808d3f280d?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Power Of Love
+------------------------------------------------------------
+
+Command typed --> spotify-this-song show me the meaning of
+ 
+ Song : 1,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cfed9c2d2d5e507ec4e91018fbd8a8ba281e9c70?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Millennium,
+ 
+ Song : 2,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me the Meaning of Being Lonely,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/1e6404a4af4cf2acbb2b18d016b6d0ca89c95ecf?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Hits--Chapter One,
+ 
+ Song : 3,
+ ** Artist: 		Anna Ternheim,
+ ** Song: 		Show Me The Meaning Of Being Lonely,
+ ** Preview URL: 	null,
+ ** Album: 		For The Young,
+ 
+ Song : 4,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		Show Me The Meaning of Being Lonely - Live in Japan,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5d556dca83346dfbf86af25b3543a8cc191efd51?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		In a World Like This (Deluxe World Tour Edition)
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-22,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-02-23,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-10,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-12,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-13,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-17,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-19,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	2019-04-20,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	22-02-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	23-02-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	10-04-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	12-04-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	13-04-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	17-04-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	19-04-2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	20-04-2019,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> concert-this backstreet boys
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/22/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/23/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> alsndsklad Command typed --> movie-this asldk
