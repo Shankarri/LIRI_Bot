@@ -72,20 +72,22 @@ var Band = function () {
     // Define band Ajax function to get all the concert event details of that band 
     this.bandAjax = function(bandName,bandcount){
         this.bandName = bandName;
+        this.bandcount = parseInt(bandcount);
         var queryUrl = "https://rest.bandsintown.com/artists/" + this.bandName + "/events?app_id=codingbootcamp&date=upcoming";
     
-    axios.get(queryUrl).then(function (response) {
+        axios.get(queryUrl).then(function (response) {
+        
         var eventData = response.data;
-        // console.log(eventData);  
-        // if response has atleat one event
-        if (eventData.length > 0) {
+        // if response has atleat one event, check if the code failed
+        if (eventData.indexOf("warn=Not found")<0) {
 
             //Display the results count heading
-            console.log("--------------------------" +
-                "\n ** Top " + bandcount + " search Results ** " +
-                "\n--------------------------");
+            console.log();
 
             var logData = [];
+            logData.push("--------------------------" +
+                "\n ** Top " + bandcount + " search Results ** " +
+                "\n--------------------------");
             //go through all the events and display the results
             for (var index in eventData) {
                 //check count varaible to displaying correct number of results 
@@ -100,7 +102,7 @@ var Band = function () {
                        var eventDate= moment(eventData[index].datetime.split("T")[0]).format("MM/DD/YYYY");
                         logData.push( "\n ** Data of the Event :\t" + eventDate,
                         "\n ** Time of the Event: " + eventData[index].datetime.split("T")[1]);
-                    bandcount--;
+                        bandcount--;
                 }
                 else {
                     //count comes to zero break out of this loop
@@ -120,7 +122,7 @@ var Band = function () {
             console.log("\n ** There is no search result for the Band - " + bandName + " **");
         }
     }).catch(function (error) {
-        console.log(error);
+        // console.log(error);
     });
 }}
 

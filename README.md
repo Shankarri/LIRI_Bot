@@ -25,10 +25,6 @@ SPOTIFY_SECRET=your-spotify-secret
 * npm install node-spotify-api
 ```
 
-# Instructions Video :
-
-![Demo] ((video_1.webm)
-
 ### Commands and results
 
 1. 'node liri.js concert-this <artist/band name here> [count-<value>]'
@@ -37,6 +33,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
     * Once the command is entered, based on the artist or band name, LiriApp will search the "Bands in town" API and provide below details results  
 
+     * Results Screenshots : 
     ```
      * Name of the venue
 
@@ -45,16 +42,33 @@ SPOTIFY_SECRET=your-spotify-secret
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
      * Time of the Event 
-    
     ```
+    * Result Screenshots : 
+    ![Concert This](images/1_concert-this.png)
+    ![Concert This](images/2_concert-this.png)
+    
+    * By Default, limit of the search is set to 10. So only 10 items are listed here.
 
     * You can also enter an optional count value at the end of the command line like
 
     * Example - node liri.js concert-this backstreet boys count-3
 
     * 'count-3' will limit the results display to 3 in the terminal, Since this is optional you don't have to enter this.
+    * Result Screenshots : 
+    ![Concert This](images/3_concert-this_count.png)
+
+    * Example - node liri.js concert-this backstreet boys count-8
+    ![Concert This](images/4_concert-this_count.png)
+    ![Concert This](images/5_concert-this_count.png)
+
 
     * If the count, is not mentioned then By default first 10 results are shown.
+
+# Error Message
+
+    * If the band name or artist name does not return any values, then terminal will show an error message.
+    
+![Error Msg](images/3_Error_Msg.png)
 
 
 2. 'node liri.js movie-this <movie name here>'
@@ -73,6 +87,10 @@ SPOTIFY_SECRET=your-spotify-secret
     * Plot of the movie.
     * Actors in the movie.
      ```
+
+    * Result Screenshots : 
+    ![Movie This](images/1_movie-this.png)
+   
     * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
     ```
@@ -80,6 +98,14 @@ SPOTIFY_SECRET=your-spotify-secret
 
      - It's on Netflix!
     ```
+    * Result Screenshots : 
+    ![Movie This](images/2_movie-this.png)
+
+# Error Message
+
+    * If the movie name does not return any values, then terminal will show an error message.
+    
+![Error Msg](images/4_Error_Msg.png)
 
 3. 'node liri.js spotify-this-song <song name here> [count-<value>]'
     
@@ -99,12 +125,32 @@ SPOTIFY_SECRET=your-spotify-secret
     
     ```
 
-    * You can also enter an optional count value at the end of the command line like
-    * Example - node liri.js spotify-this-song show me the meaning count-7
+    * Result Screenshots : 
+     ![Spotify This Song](images/1_spotify-this-song.png)
+     ![Spotify This Song](images/2_spotify-this-song.png)
+    
+    * By Default, limit of the search is set to 10. So only 10 items are listed here.
 
-    * 'count-7' will limit the results display to 7 in the terminal, Since this is optional you don't have to enter this.
+    * You can also enter an optional count value at the end of the command line like
+    * Example - node liri.js spotify-this-song show me the meaning count-4
+
+    * 'count-4' will limit the results display to 4 in the terminal, Since this is optional you don't have to enter this.
+
+     * Result Screenshots : 
+     ![Spotify This Song](images/3_spotify-this-song.png)
+
+    * Example - node liri.js concert-this backstreet boys count-12
+    ![Spotify This Song](images/4_spotify-this-song.png)
+    ![Spotify This Song](images/5_spotify-this-song.png)
+
 
     * If the count, is not mentioned then By default first 10 results are shown.
+
+# Error Message
+
+    * If the song name does not return any values, then terminal will show an error message.
+    
+![Error Msg](images/5_Error_Msg.png)
 
 
 4. 'node liri.js do-what-it-says'
@@ -119,4 +165,21 @@ SPOTIFY_SECRET=your-spotify-secret
     * concert-this,"backstreet boys"
 
     ```
+
+    * Result Screenshots : 
+     ![Do Waht it Says](images/1_do-what-it-says.png)
+     ![Do Waht it Says](images/2_do-what-it-says.png)
+     ![Do Waht it Says](images/3_do-what-it-says.png)
+
      * you can add in more custom commands in the given format and can execute them randomly .
+
+
+5. Error Message 
+
+    * If you did not enter any parameters after 'node liri' then you should get an error message 
+
+    ![Error Msg](images/1_Error_Msg.png)
+
+    * If you enter commands that is not mentionedthen you should get an error message 
+    
+    ![Error Msg](images/2_Error_Msg.png)
