@@ -27,7 +27,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
 # Instructions Video :
 
-![Demo] ((configuration_1.mp3)
+![Demo] (configuration_1.mp3)
 
 ### Commands and results
 
