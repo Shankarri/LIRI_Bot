@@ -1931,3 +1931,482 @@ Command typed --> do-what-it-says
  ** Album: 		The Sign (US Album) [Remastered]
 ------------------------------------------------------------
 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+
+ ** Title of the movie: 			Harry Potter and the Deathly Hallows: Part 2,
+ ** Year the movie came out : 			2011,
+ ** IMDB Rating of the movie : 			8.1,
+ ** Rotten Tomatoes Rating of the movie : 	96%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe,
+ ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+
+ ** Title of the movie: 			Harry Potter and the Deathly Hallows: Part 2,
+ ** Year the movie came out : 			2011,
+ ** IMDB Rating of the movie : 			8.1,
+ ** Rotten Tomatoes Rating of the movie : 	96%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe,
+ ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+------------------------------------------------------------
+
+ 
+ 
+ Randomly selected command --> movie-this "Harry Potter" 
+Command typed --> do-what-it-says 
+ ** Title of the movie: 			Harry Potter and the Deathly Hallows: Part 2,
+ ** Year the movie came out : 			2011,
+ ** IMDB Rating of the movie : 			8.1,
+ ** Rotten Tomatoes Rating of the movie : 	96%,
+ ** Country where the movie was produced : 	 USA, UK,
+ ** Language of the movie : 			English,
+ ** Actors in the movie : 			Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe,
+ ** Plot of the movie : 			Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> concert-this "backstreet boys" 
+
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/22/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/23/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/12/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/13/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/17/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/19/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/20/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/24/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/26/2019,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Hits--Chapter One,
+ 
+ Song : 2,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Millennium,
+ 
+ Song : 3,
+ ** Artist: 		Anthem Lights,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Covers Part IV,
+ 
+ Song : 4,
+ ** Artist: 		Tyler and Mark,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Beautiful Dreams,
+ 
+ Song : 5,
+ ** Artist: 		"Weird Al" Yankovic,
+ ** Song: 		Ebay (Parody of "I Want It That Way" by the Backstreet Boys),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Poodle Hat,
+ 
+ Song : 6,
+ ** Artist: 		Dynamite Boy,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	null,
+ ** Album: 		Punk Goes Pop,
+ 
+ Song : 7,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		90 Sweet 90s Hits!,
+ 
+ Song : 8,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		NKOTBSB,
+ 
+ Song : 9,
+ ** Artist: 		Glee Cast,
+ ** Song: 		Bye Bye Bye / I Want It That Way (Glee Cast Version),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Bye Bye Bye / I Want It That Way (Glee Cast Version),
+ 
+ Song : 10,
+ ** Artist: 		Manuel Costa,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		I Want It That Way
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> spotify-this-song "I Want it That Way" 
+
+ 
+ Song : 1,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		The Hits--Chapter One,
+ 
+ Song : 2,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Millennium,
+ 
+ Song : 3,
+ ** Artist: 		Anthem Lights,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Covers Part IV,
+ 
+ Song : 4,
+ ** Artist: 		Tyler and Mark,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Beautiful Dreams,
+ 
+ Song : 5,
+ ** Artist: 		"Weird Al" Yankovic,
+ ** Song: 		Ebay (Parody of "I Want It That Way" by the Backstreet Boys),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Poodle Hat,
+ 
+ Song : 6,
+ ** Artist: 		Dynamite Boy,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	null,
+ ** Album: 		Punk Goes Pop,
+ 
+ Song : 7,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		90 Sweet 90s Hits!,
+ 
+ Song : 8,
+ ** Artist: 		Backstreet Boys,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		NKOTBSB,
+ 
+ Song : 9,
+ ** Artist: 		Glee Cast,
+ ** Song: 		Bye Bye Bye / I Want It That Way (Glee Cast Version),
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Bye Bye Bye / I Want It That Way (Glee Cast Version),
+ 
+ Song : 10,
+ ** Artist: 		Manuel Costa,
+ ** Song: 		I Want It That Way,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		I Want It That Way
+------------------------------------------------------------
+
+Command typed --> do-what-it-says  
+ 
+ Randomly selected command --> concert-this "backstreet boys" 
+
+ 
+ Event : 1,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/22/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	02/23/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/10/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/12/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/13/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/17/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/19/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/20/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/24/2019,
+ ** Time of the Event: 21:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	Planet Hollywood Resort & Casino	- Las Vegas,
+ ** Location of the Venue :	Las Vegas , United States,
+ ** Data of the Event :	04/26/2019,
+ ** Time of the Event: 21:00:00
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let me go
+ 
+ Song : 1,
+ ** Artist: 		G-Eazy,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/41f472e4ab7e3ce5979b71b04d0b5ef64ac973a9?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		When It's Dark Out,
+ 
+ Song : 2,
+ ** Artist: 		Bring Me The Horizon,
+ ** Song: 		Don't Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3a915a188d3accb9dba6b3445f81e152157d3a8a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret,
+ 
+ Song : 3,
+ ** Artist: 		Mark Souzek,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b0e2890a63b6b767207694eb4cb750cf48dc8366?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go,
+ 
+ Song : 4,
+ ** Artist: 		George Michael,
+ ** Song: 		Don't Let the Sun Go Down on Me,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5b030d6dd95a91096f8d5bbe84a9eef1af25a3ee?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Ladies And Gentlemen... The Best Of George Michael,
+ 
+ Song : 5,
+ ** Artist: 		Allman Brown,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/716756e109e9be46565f3fc5ff4bf688d3754957?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		1000 Years
+------------------------------------------------------------
+
+Command typed --> spotify-this-song dont let me go
+ 
+ Song : 1,
+ ** Artist: 		G-Eazy,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/41f472e4ab7e3ce5979b71b04d0b5ef64ac973a9?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		When It's Dark Out,
+ 
+ Song : 2,
+ ** Artist: 		Bring Me The Horizon,
+ ** Song: 		Don't Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/3a915a188d3accb9dba6b3445f81e152157d3a8a?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret,
+ 
+ Song : 3,
+ ** Artist: 		Mark Souzek,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/b0e2890a63b6b767207694eb4cb750cf48dc8366?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go,
+ 
+ Song : 4,
+ ** Artist: 		George Michael,
+ ** Song: 		Don't Let the Sun Go Down on Me,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/5b030d6dd95a91096f8d5bbe84a9eef1af25a3ee?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Ladies And Gentlemen... The Best Of George Michael,
+ 
+ Song : 5,
+ ** Artist: 		Allman Brown,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/716756e109e9be46565f3fc5ff4bf688d3754957?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		1000 Years,
+ 
+ Song : 6,
+ ** Artist: 		Elton John,
+ ** Song: 		Don't Let The Sun Go Down On Me,
+ ** Preview URL: 	null,
+ ** Album: 		Caribou,
+ 
+ Song : 7,
+ ** Artist: 		Cody Simpson,
+ ** Song: 		Don't Let Me Go - Reef Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4f96cc5020211682776f7f66b57cf13ab43579ce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go - Reef Mix,
+ 
+ Song : 8,
+ ** Artist: 		Cody Simpson,
+ ** Song: 		Don't Let Me Go - Reef Mix,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/4f96cc5020211682776f7f66b57cf13ab43579ce?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Wave Two,
+ 
+ Song : 9,
+ ** Artist: 		Elton John,
+ ** Song: 		Don't Let The Sun Go Down On Me - Live At Wembley Arena / 1991,
+ ** Preview URL: 	null,
+ ** Album: 		Duets,
+ 
+ Song : 10,
+ ** Artist: 		Koni,
+ ** Song: 		Don't Let Me Go,
+ ** Preview URL: 	https://p.scdn.co/mp3-preview/8b7d381e5245743422cc0aed5835904f0c2ee4dc?cid=f29bde01a38341678201daea1200b02c,
+ ** Album: 		Don't Let Me Go
+------------------------------------------------------------
+
+Command typed --> movie-this baahubali
+ ** Title of the movie: 			Baahubali: The Beginning,
+ ** Year the movie came out : 			2015,
+ ** IMDB Rating of the movie : 			8.2,
+ ** Rotten Tomatoes Rating of the movie : 	86%,
+ ** Country where the movie was produced : 	 India,
+ ** Language of the movie : 			Telugu, Tamil, Hindi,
+ ** Actors in the movie : 			Prabhas, Rana Daggubati, Ramya Krishnan, Sathyaraj,
+ ** Plot of the movie : 			In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.
+------------------------------------------------------------
+
+Command typed --> concert-this pink
+ 
+ Event : 1,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Sunrise , United States,
+ ** Data of the Event :	03/01/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 2,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Tampa , United States,
+ ** Data of the Event :	03/03/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 3,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Jacksonville , United States,
+ ** Data of the Event :	03/05/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 4,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Columbia , United States,
+ ** Data of the Event :	03/07/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 5,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Charlotte , United States,
+ ** Data of the Event :	03/09/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 6,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Nashville , United States,
+ ** Data of the Event :	03/10/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 7,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Atlanta , United States,
+ ** Data of the Event :	03/12/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 8,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Birmingham , United States,
+ ** Data of the Event :	03/14/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 9,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	Bossier City , United States,
+ ** Data of the Event :	03/16/2019,
+ ** Time of the Event: 19:00:00,
+ 
+ Event : 10,
+ ** Name of the venue :	P!NK: BEAUTIFUL TRAUMA WORLD TOUR,
+ ** Location of the Venue :	New Orleans , United States,
+ ** Data of the Event :	03/17/2019,
+ ** Time of the Event: 19:00:00
+------------------------------------------------------------
+

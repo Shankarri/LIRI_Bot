@@ -27,22 +27,22 @@ console.log(" \n \t\t\t\t Loading................\n");
 if (liriAction) {
 
     // intialize your all 3 constructors 
-    var band = new Band(liriArguments);
-    var movie = new Movie(liriArguments);
-    var song = new Song(liriArguments);
+    var band = new Band();
+    var movie = new Movie();
+    var song = new Song();
 
     liriAction = liriAction.toLowerCase();
 
     //if user provide "concert-this" as input, then call bandAjax function
     if (liriAction === "concert-this" && liriArguments) {
-           band.bandAjax(count);
+           band.bandAjax(liriArguments,count);
     }
     
     //if user provide "movie-this" as input, then call movieAjax function
     else if (liriAction === "movie-this") {
         // if user has provided any movie name
         if (liriArguments) {
-           movie.movieAjax();
+           movie.movieAjax(liriArguments);
         }
         // if user has provided not given any movie name arguments, then diplay the below message
         else {
@@ -53,7 +53,7 @@ if (liriAction) {
 
     //if user provide "spotify-this-song" as input, then call songAjax function
     else if (liriAction === "spotify-this-song") {
-        song.songAjax(count);
+        song.songAjax(liriArguments,count);
     }
 
     //if user provide "do-what-it-says" as input, have to take values from random.txt file
@@ -76,15 +76,15 @@ if (liriAction) {
             switch (randomitem[0])
             {
                 case "concert-this":
-                band.bandAjax(count);
+                band.bandAjax(arguments,count);
                 break;
 
                 case "spotify-this-song":
-                song.songAjax(count);
+                song.songAjax(arguments, count);
                 break;
 
                 case "movie-this":
-                movie.movieAjax();
+                movie.movieAjax(arguments);
                 break;
             }
 

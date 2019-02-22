@@ -15,13 +15,11 @@ var divider = "\n------------------------------------------------------------\n\
 // -----------------------------------------------------------------------------------------------------//
 
 // Define a Movie constructor for future purpose
-var Movie = function (movieName) {
-    
-    this.movieName= movieName;
-    var queryUrl = "http://www.omdbapi.com/?t=" + this.movieName + "&y=&plot=short&apikey=trilogy";
-    
+var Movie = function () {
     // Define movie Ajax function to get all the movie details  
-    this.movieAjax = function () {
+    this.movieAjax = function (movieName) {
+        this.movieName= movieName;
+        var queryUrl = "http://www.omdbapi.com/?t=" + this.movieName + "&y=&plot=short&apikey=trilogy";
         axios.get(queryUrl).then(function (response) {
             // console.log(response.data);
             var movieData = response.data;
@@ -70,12 +68,12 @@ var Movie = function (movieName) {
 // -----------------------------------------------------------------------------------------------------//
 
 // Define a Band constructor for future purpose
-var Band = function (bandName) {
-    this.bandName = bandName;
-    var queryUrl = "https://rest.bandsintown.com/artists/" + this.bandName + "/events?app_id=codingbootcamp&date=upcoming";
-
+var Band = function () {
     // Define band Ajax function to get all the concert event details of that band 
-    this.bandAjax = function(bandcount){
+    this.bandAjax = function(bandName,bandcount){
+        this.bandName = bandName;
+        var queryUrl = "https://rest.bandsintown.com/artists/" + this.bandName + "/events?app_id=codingbootcamp&date=upcoming";
+    
     axios.get(queryUrl).then(function (response) {
         var eventData = response.data;
         // console.log(eventData);  
@@ -129,14 +127,15 @@ var Band = function (bandName) {
 // -----------------------------------------------------------------------------------------------------//
 
 // Define a Song constructor for future purpose
-var Song = function (songName) {
-        this.songName = songName;
-    if (this.songName == "") {
-        this.songName = "The Sign + Ace of Base";
-    }
+var Song = function () {
+
     // Define song Ajax function to get songs with user input song words
     // add user provided results count also in the query
-    this.songAjax = function(songcount){
+    this.songAjax = function(songName, songcount){
+        this.songName = songName;
+        if (this.songName == "") {
+            this.songName = "The Sign + Ace of Base";
+        }
         spotify.search({ type: 'track', query: this.songName, limit: songcount }, function (err, data) {
         //if spotify search did not work - display error
         if (err) {

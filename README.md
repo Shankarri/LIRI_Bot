@@ -27,7 +27,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
 # Instructions Video :
 
-
+![Demo] ((video_1.webm)
 
 ### Commands and results
 
@@ -117,6 +117,6 @@ SPOTIFY_SECRET=your-spotify-secret
     * spotify-this-song,"I Want it That Way"
     * movie-this,"Harry Potter"
     * concert-this,"backstreet boys"
-    
+
     ```
      * you can add in more custom commands in the given format and can execute them randomly .
