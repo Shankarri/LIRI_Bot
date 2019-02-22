@@ -16,7 +16,7 @@ if(liriArguments.indexOf(" count-")>0)
     {
         count = liriArguments.split(" count-")[1];
         liriArguments = liriArguments.split(" count-")[0];
-        console.log("count", count, liriArguments);
+        // console.log("count", count, liriArguments);
     }
 
 // Print Loading while you wait for the results
